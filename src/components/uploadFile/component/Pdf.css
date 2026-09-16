@@ -1,0 +1,25 @@
+.react-select-container {
+  min-width: 200px;
+}
+
+.react-select__control {
+  min-height: 40px;
+  border-color: #ccc !important;
+  box-shadow: none !important;
+}
+
+.react-select__control:hover {
+  border-color: #888 !important;
+}
+
+.react-select__menu {
+  z-index: 100;
+}
+
+.react-select__option {
+  cursor: pointer;
+}
+
+.react-select__option--is-focused {
+  background-color: #f0f0f0 !important;
+}

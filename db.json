@@ -1,0 +1,100 @@
+{
+  "products": [],
+  "invoices": [],
+  "suppliers": [
+    {
+      "id": "303a",
+      "whatsapp": "df",
+      "supplierType": "A",
+      "contact": "1234567890",
+      "supplierName": "ergeg",
+      "supplierId": "1"
+    },
+    {
+      "id": "9095",
+      "addharCard": "fsad",
+      "panCard": "",
+      "companyName": "",
+      "gstNumber": "",
+      "firstName": "",
+      "lastName": "",
+      "phoneNo": "",
+      "whatsaapNo": "",
+      "email": "",
+      "address": "",
+      "landMark": "",
+      "city": "",
+      "district": "",
+      "state": "",
+      "pinCode": ""
+    }
+  ],
+  "users": [
+    {
+      "id": "8754",
+      "name": "tnt",
+      "email": "tnt@g.com",
+      "password": "123456"
+    },
+    {
+      "id": "bd60",
+      "name": "kg",
+      "email": "kg@k.com",
+      "password": "123456"
+    },
+    {
+      "id": "c8cc",
+      "name": "h",
+      "email": "h@h.com",
+      "password": "123456"
+    }
+  ],
+  "customers": [
+    {
+      "id": "32cf",
+      "addharCard": "1234567890123456",
+      "panCard": "12345678",
+      "companyName": "cacaca",
+      "gstNumber": "adcacaca",
+      "firstName": "adcddcadcdc",
+      "lastName": "adcacdcdacac",
+      "phoneNo": "1234567890",
+      "whatsaapNo": "0123456789",
+      "email": "xXax@gmail.com",
+      "address": "dve",
+      "landMark": "fr",
+      "city": "evrr",
+      "district": "rvrev",
+      "state": "rev",
+      "pinCode": "123456",
+      "customerType": "individual",
+      "gender": "male"
+    },
+    {
+      "id": "2850"
+    },
+    {
+      "id": "1cf6"
+    },
+    {
+      "id": "8675",
+      "addharCard": "1234567890123456",
+      "panCard": "12345678",
+      "companyName": "cc",
+      "gstNumber": "cc",
+      "firstName": "cdc",
+      "lastName": "cc",
+      "phoneNo": "1234567890",
+      "whatsaapNo": "1234567890",
+      "email": "fff@gmail.com",
+      "address": "c",
+      "landMark": "c",
+      "city": "c",
+      "district": "c",
+      "state": "c",
+      "pinCode": "123456",
+      "customerType": "individual",
+      "gender": "female"
+    }
+  ]
+}
